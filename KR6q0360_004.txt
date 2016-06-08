@@ -1,20 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:50:26.005062
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:31
 #+TITLE: 淨慈慧暉禪師語錄
 #+PROPERTY: CBETA_ID X72n1428
 #+PROPERTY: ID KR6q0360
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 72, No. 1428
 #+PROPERTY: VOL 72
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0360_X_004-0144b> 
 #+PROPERTY: JUAN 4
 ¶
-
- 靈竺淨慈自得禪師錄卷第四¶
+靈竺淨慈自得禪師錄卷第四¶
 ¶
 
-示眾
 示眾曰。山僧這裡有一物。看時有還覔時無。是什麼。¶
 雖然恁麼也。滿眼滿耳通身手眼。故經曰。父母所生¶
 清淨肉眼。見於三千大千世界。拈起佛光普照之幡。¶
